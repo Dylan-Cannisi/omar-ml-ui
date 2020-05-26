@@ -40,4 +40,5 @@
 #mapContainer {
   height: 850px;
   width: 100%;
+  positon: absolute;
 }
